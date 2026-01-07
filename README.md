@@ -55,6 +55,9 @@ Ya Zhang<sup>1</sup>&nbsp;&nbsp;&nbsp;&nbsp;Xiaoyun Zhang<sup>1,†</sup>&nbsp;&
 Restore-then-edit pipelines often compromise fidelity to the low-quality (LQ) input. In contrast, **A<sup>2</sup>BFR** produces restorations that are both **faithful** to the input and **aligned** with the specified attributes.
 
 ## 🗂️ Dataset
+<div align="center">
+  <img src="static/AttrFace.png" alt="" width="90%">
+</div>
 
 **Left:** Examples of image and prompt pairs in AttrFace-90K.  
 **Right:** A quick view of AttrFace-90K.
