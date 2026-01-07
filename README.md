@@ -31,6 +31,7 @@ Ya Zhang<sup>1</sup>&nbsp;&nbsp;&nbsp;&nbsp;Xiaoyun Zhang<sup>1,†</sup>&nbsp;&
 
 ## 😍 Visual Results
 ### Customizable Results with Attribute Prompts
+
 <div align="center">
   <img src="static/visual.png" alt="" width="80%">
 </div>
@@ -38,15 +39,17 @@ Ya Zhang<sup>1</sup>&nbsp;&nbsp;&nbsp;&nbsp;Xiaoyun Zhang<sup>1,†</sup>&nbsp;&
 **A<sup>2</sup>BFR** enables customizable restoration via attribute prompts. Each column presents diverse outputs generated from the same low-quality input under different facial attribute conditions (e.g., *smiling*, *eyeglasses*), demonstrating controllable, user-directed face restoration.
 
 ### Comparison with BFR Methods
+
 <div align="center">
-  <img src="static/quality_visual.jpeg" alt="" width="80%">
+  <img src="static/quality_visual.png" alt="" width="80%">
 </div>
 
 **A<sup>2</sup>BFR** delivers superior restoration quality compared with existing BFR methods.
 
 ### Comparison with Restore-then-Edit Pipelines
+
 <div align="center">
-  <img src="static/visual2.jpeg" alt="" width="80%">
+  <img src="static/visual2.png" alt="" width="80%">
 </div>
 
 Restore-then-edit pipelines often compromise fidelity to the low-quality (LQ) input. In contrast, **A<sup>2</sup>BFR** produces restorations that are both **faithful** to the input and **aligned** with the specified attributes.
