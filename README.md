@@ -59,7 +59,9 @@ Restore-then-edit pipelines often compromise fidelity to the low-quality (LQ) in
   <img src="static/AttrFace.png" alt="" width="80%">
 </div>
 
-An overview of **AttrFace-90K**.
+**Left:** Examples of $(I^\text{src}_{\text{GT}}, T^\text{src})$ and $(I^\text{tar}_{\text{GT}}, T^\text{tar})$ in AttrFace-90K.  
+**Right:** A quick view of AttrFace-90K.
+
 
 
 ## ⚙ Dependencies and Installation
