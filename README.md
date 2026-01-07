@@ -8,7 +8,8 @@ Yushun Fang<sup>1,2,\*</sup>&nbsp;&nbsp;&nbsp;&nbsp;Yuxiang Chen<sup>2,\*</sup>&
 Ya Zhang<sup>1</sup>&nbsp;&nbsp;&nbsp;&nbsp;Xiaoyun Zhang<sup>1,†</sup>&nbsp;&nbsp;&nbsp;&nbsp;Yanfeng Wang<sup>1</sup>  
 <sup>1</sup>Shanghai Jiao Tong University&nbsp;&nbsp;&nbsp;&nbsp;<sup>2</sup>Xiaohongshu Inc  
 <sup>\*</sup>Equal contribution&nbsp;&nbsp;&nbsp;&nbsp;<sup>†</sup>Corresponding author
-</div> -->
+-->
+</div>
 
 
 ## ⏰ Update
