@@ -25,7 +25,7 @@ Ya Zhang<sup>1</sup>&nbsp;&nbsp;&nbsp;&nbsp;Xiaoyun Zhang<sup>1,†</sup>&nbsp;&
 
 1. Built on **FLUX.1-dev**, we train an **Attribute-Aware** blind face restoration (BFR) model using **LoRA**, and inject the low-resolution (LR) condition via **sequence concatenation**.  
 2. With our **Attribute-Aware Learning** and **Semantic Dual Training** strategy, the BFR process can be jointly guided by text prompts, enabling **strong and accurate control over facial attributes**.  
-3. We construct a large-scale face editing dataset **AttrFace** primarily based on **FFHQ** and **ReFaceHQ**, **doubling** the dataset scale and the number of supported attributes compared to existing open-source datasets.
+3. We construct a large-scale face editing dataset **AttrFace-90K** primarily based on **FFHQ** and **ReFaceHQ**, **doubling** the dataset scale and the number of supported attributes compared to existing open-source datasets.
 
 
 
@@ -54,6 +54,12 @@ Ya Zhang<sup>1</sup>&nbsp;&nbsp;&nbsp;&nbsp;Xiaoyun Zhang<sup>1,†</sup>&nbsp;&
 
 Restore-then-edit pipelines often compromise fidelity to the low-quality (LQ) input. In contrast, **A<sup>2</sup>BFR** produces restorations that are both **faithful** to the input and **aligned** with the specified attributes.
 
+## 🗂️ Dataset
+<div align="center">
+  <img src="static/AttrFace.png" alt="" width="80%">
+</div>
+
+An overview of **AttrFace-90K**.
 
 
 ## ⚙ Dependencies and Installation
