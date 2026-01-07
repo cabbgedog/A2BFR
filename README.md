@@ -56,10 +56,10 @@ Restore-then-edit pipelines often compromise fidelity to the low-quality (LQ) in
 
 ## 🗂️ Dataset
 <div align="center">
-  <img src="static/AttrFace.png" alt="" width="80%">
+  <img src="static/AttrFace.png" alt="" width="90%">
 </div>
 
-**Left:** Examples of $(I^\text{src}_{\text{GT}}, T^\text{src})$ and $(I^\text{tar}_{\text{GT}}, T^\text{tar})$ in AttrFace-90K.  
+**Left:** Examples of (I_{src,GT}, T_{src}) and (I_{tar,GT}, T_{tar}) in AttrFace-90K.  
 **Right:** A quick view of AttrFace-90K.
 
 
