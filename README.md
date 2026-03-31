@@ -36,7 +36,12 @@ Ya Zhang<sup>1</sup>&nbsp;&nbsp;&nbsp;&nbsp;Xiaoyun Zhang<sup>1,†</sup>&nbsp;&
   <img src="static/visual.png" alt="" width="80%">
 </div>
 
-**A<sup>2</sup>BFR** enables customizable restoration via attribute prompts. Each column presents diverse outputs generated from the same low-quality input under different facial attribute conditions (e.g., *smiling*, *eyeglasses*), demonstrating controllable, user-directed face restoration. **A<sup>2</sup>BFR** exhibits strong generalization beyond the 12 attribute categories defined in AttrFace-90K. It can respond to out-of-domain attribute prompts (e.g., *Beard*, *Lipstick*) and produce the corresponding edits, demonstrating robust cross-attribute generalization.
+**A<sup>2</sup>BFR** enables customizable restoration via attribute prompts. Each column presents diverse outputs generated from the same low-quality input under different facial attribute conditions (e.g., *smiling*, *eyeglasses*), demonstrating controllable, user-directed face restoration. 
+
+<div align="center">
+  <img src="static/ood.png" alt="" width="80%">
+</div>
+**A<sup>2</sup>BFR** exhibits strong generalization beyond the 12 attribute categories defined in AttrFace-90K. It can respond to out-of-domain attribute prompts and produce the corresponding edits, demonstrating robust cross-attribute generalization.
 
 ### Comparison with BFR Methods
 
